@@ -1,11 +1,12 @@
 <template>
   <v-app dark>
-    <v-app-bar :clipped-left="clipped" fixed app
+    <v-app-bar :clipped-left="clipped" fixed app>
+      <v-spacer></v-spacer
       ><v-toolbar-title class="app-bar-title" v-text="title" />
       <v-spacer></v-spacer>
     </v-app-bar>
     <v-main class="main-container">
-      <v-container>
+      <v-container class="inner-container">
         <nuxt />
       </v-container>
     </v-main>

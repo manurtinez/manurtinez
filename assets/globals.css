@@ -8,3 +8,11 @@ p {
   background-size: cover;
   background-repeat: no-repeat;
 }
+.inner-container {
+  width: 100%;
+  margin: 0;
+  max-width: none;
+}
+.logo {
+  height: 100px;
+}

@@ -4,8 +4,8 @@
 
 <style scoped>
 .profile-image {
-  height: 50%;
-  width: 50%;
+  height: 35%;
+  width: 35%;
   border-radius: 50%;
 }
 </style>
