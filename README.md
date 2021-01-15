@@ -5,7 +5,7 @@
 - 🎓 Besides that, **I'm studying to get my college degree in Software Engineering**
 - 🌱 I’m currently learning **React, Server side Node and Hybrid mobile app development**
 - 💬 Besides technical skills, **I can speak Spanish (native) and English (fluent), and I'm learning Japanese, slow but steady (it's hard!)**
-- ⚡ Fun fact, **my favourite TV series is Mr. Robot. Fitting! Seriously, watch it if you haven't already**
+- ⚡ Fun fact, **my favourite TV series is Mr. Robot. Fitting, right?**
 
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank">
