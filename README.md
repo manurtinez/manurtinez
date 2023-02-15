@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Manuel</h1>
 
+- 🔭 I’m currently working on <a href="https://www.ripio.com/ar/">Ripio</a>, a crypto currency company working with various web and blockchain technologies.
+- 🌱 I’m currently learning about Graph Databases for my computer science graduate thesis.
+- 💬 My native language is Spanish, but I'm also proficient in English and studied a bit of 日本語 (Japanese)
+- 😄 Pronouns: He / Him
+
 <p align="center">
   <img
     align="center"
