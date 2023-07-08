@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manuel</h1>
 
-- 🔭 Main languages: Python (Django), Javascript (React, Vue), Java, SQL
-
 <p align="center">
   <img
     align="center"
